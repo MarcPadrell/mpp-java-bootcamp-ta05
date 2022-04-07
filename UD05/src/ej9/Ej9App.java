@@ -1,5 +1,10 @@
 package ej9;
 
+/**
+ * TA05 - Números divisbles por 2 y 3.
+ * @author marcp
+ *
+ */
 public class Ej9App {
 
 	public static void main(String[] args) {

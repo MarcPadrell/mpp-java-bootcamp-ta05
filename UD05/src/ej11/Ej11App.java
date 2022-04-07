@@ -2,6 +2,11 @@ package ej11;
 
 import java.util.Scanner;
 
+/**
+ * TA05 - Día de la semana usando switch.
+ * @author marcp
+ *
+ */
 public class Ej11App {
 
 	public static void main(String[] args) {

@@ -1,6 +1,11 @@
 package ej5;
 import java.util.Scanner;
 
+/**
+ * TA05 - Número divisible por 2.
+ * @author marcp
+ *
+ */
 public class Ej5App {
 
 	public static void main(String[] args) {

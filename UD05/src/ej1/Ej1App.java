@@ -1,5 +1,10 @@
 package ej1;
 
+/**
+ * TA05 - Que variables es mayor, menor o igual.
+ * @author marcp
+ *
+ */
 public class Ej1App {
 
 	public static void main(String[] args) {

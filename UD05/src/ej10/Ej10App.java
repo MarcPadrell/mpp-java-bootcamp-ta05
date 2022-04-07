@@ -2,6 +2,11 @@ package ej10;
 
 import java.util.Scanner;
 
+/**
+ * TA05 - Suma de las ventas.
+ * @author marcp
+ *
+ */
 public class Ej10App {
 
 	public static void main(String[] args) {

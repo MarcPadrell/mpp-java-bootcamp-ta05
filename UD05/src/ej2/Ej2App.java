@@ -1,5 +1,10 @@
 package ej2;
 
+/**
+ * TA05 - Mensaje de bienvenida.
+ * @author marcp
+ *
+ */
 public class Ej2App {
 
 	public static void main(String[] args) {

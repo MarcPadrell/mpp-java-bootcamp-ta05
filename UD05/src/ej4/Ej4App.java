@@ -1,6 +1,11 @@
 package ej4;
 import java.util.Scanner;
 
+/**
+ * TA05 - Cálculo del área de un círculo.
+ * @author marcp
+ *
+ */
 public class Ej4App {
 
 	public static void main(String[] args) {

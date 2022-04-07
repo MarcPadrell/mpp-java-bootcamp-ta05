@@ -2,6 +2,11 @@ package ej12;
 
 import java.util.Scanner;
 
+/**
+ * TA05 - Verificación contraseña.
+ * @author marcp
+ *
+ */
 public class Ej12App {
 
 	public static void main(String[] args) {

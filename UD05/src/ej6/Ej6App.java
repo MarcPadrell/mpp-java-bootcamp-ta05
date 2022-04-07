@@ -1,6 +1,11 @@
 package ej6;
 import java.util.Scanner;
 
+/**
+ * TA05 - Precio más IVA.
+ * @author marcp
+ *
+ */
 public class Ej6App {
 
 	public static void main(String[] args) {
